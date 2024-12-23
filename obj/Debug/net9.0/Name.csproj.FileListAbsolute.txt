@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\Name.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\Name.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\Name.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\bin\Debug\net9.0\Name.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\bin\Debug\net9.0\Name.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\bin\Debug\net9.0\Name.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\bin\Debug\net9.0\Name.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\bin\Debug\net9.0\Name.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\Name.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\refint\Name.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\Name.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\Name.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Name\obj\Debug\net9.0\ref\Name.dll
